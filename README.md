@@ -1,5 +1,3 @@
-# AdviseHost
-Hosting my Azure Apps
 # Kalenterikooste-botti (Python)
 
 Tämä pieni agentti hakee kalenterisi iCal‑syötteestä seuraavien N päivän tapaamiset ja lähettää niistä koosteen sähköpostilla. Projekti on tarkoitettu helppoon käyttöönottoon GitHub Actions -työnkululla.
